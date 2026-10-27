@@ -1,0 +1,2 @@
+Hello Python, welcome to class.
+This is my lyrics file.

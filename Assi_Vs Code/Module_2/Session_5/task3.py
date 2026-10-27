@@ -1,0 +1,12 @@
+resturant={
+    'pizza_hut':{
+        'cusine':'fast_food',
+        'rating':4.2
+    },
+    'burger_farm':{
+        'cusine':'Italian',
+        'rating':4.3
+    }
+}
+resturant['pizza_hut']['rating']=4.8
+print(resturant)
